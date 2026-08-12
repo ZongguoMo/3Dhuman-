@@ -41,11 +41,11 @@
 </p>
 
 <p>
-  <img src="examples/pose1.jpg" alt="图1" width="400" style="vertical-align:top;" />
+  <img src="examples/pose1.jpg" alt="图1" width="350" style="vertical-align:top;" />
   
-  <img src="examples/pose2.jpg" alt="图2" width="400" style="vertical-align:top;" />
+  <img src="examples/pose2.jpg" alt="图2" width="450" style="vertical-align:top;" />
 </p>
 <p>
- &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In-the-wild reconstruction loose cloth and challenging poses with textured colors
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;360° human image reconstruction and novel-pose generation
 </p>
 
